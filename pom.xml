@@ -46,6 +46,8 @@
 		<glslang.path></glslang.path>
 
 		<rs.version>199</rs.version>
+		  <sonar.organization>marissaatilano258</sonar.organization>
+ 		  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
 
 	<licenses>
